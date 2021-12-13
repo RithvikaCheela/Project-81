@@ -1,0 +1,16 @@
+.body_background {
+    background-image: url("bg1.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+    color: red; 
+    font-size: 40px;
+  }
+  #myCanvas{
+	border-style: ridge;
+	border-width: 10px;
+	border-color: blueviolet;
+	background-color:wheat ;
+}
